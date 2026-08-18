@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pedrinosop/Babft/refs/heads/main/AutoB'))()
